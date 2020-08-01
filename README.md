@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Foo Kai Wen's github stats](https://github-readme-stats.vercel.app/api?username=fookaiwen&show_icons=true)](https://github.com/FooKaiWen/)
+
+[![Foo Kai Wen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fookaiwen&layout=compact)](https://github.com/fookaiwen)

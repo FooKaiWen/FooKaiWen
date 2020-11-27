@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 [![Foo Kai Wen's github stats](https://github-readme-stats.vercel.app/api?username=FooKaiWen&show_icons=true&count_private=true)](https://github.com/FooKaiWen/)
 
 [![Foo Kai Wen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FooKaiWen&layout=compact&count_private=true)](https://github.com/FooKaiWen)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kaiwenfoo/">LinkedIn</a> |
+  <a href="mailto: kw.kai.wen.foo@gmail.com">Email</a> 
+</p>
